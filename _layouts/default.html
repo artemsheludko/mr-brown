@@ -9,7 +9,7 @@
         {% for post in site.posts %}
         <article class="main-articles">
            {% if post.img %}
-              <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "assets/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"></a>
+              <a href="{{post.url | prepend: site.baseurl}}"><img class="post-image" src={{ "/assets/images/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"></a>
            {% endif %}
             <div class="post-content">
               <div class="wrap-content">
