@@ -1,0 +1,15 @@
+title: Mr.Brown
+description: Mr.Brown is a responsive jekyll theme
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Comments
+discus_identifier: mr-brown
+
+# Social settings
+twitter_url: https://twitter.com/artemsheludko_
+facebook_url: https://facebook.com/
+googleplus_url: https://plus.google.com/
+instagram_url: https://instagram.com
+github_url: https://github.com/artemsheludko/
