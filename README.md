@@ -9,6 +9,7 @@ View this jekyll theme in action [here](http://artemsheludko.pw/mr-brown/)
 Integrations
   - [Google Fonts](https://fonts.google.com/)
   - [Disqus](https://disqus.com/)
+  - [txtpen](https://txtpen.com/)
   - [Font Awesome](http://fontawesome.io/)
   - Social media links
 
